@@ -5,14 +5,26 @@
       [
         {"name": "Acts","children": 
           [
-            {"name": "26:28"},
-            {"name": "11:26"}
+            {"name": "26", "children":
+                [
+                    {"name":"28"}
+                ]
+            },
+            {"name": "11", "children":
+                [
+                    {"name":"26"}
+                ]
+            }
           ]
         },
 
         {"name": "1 Peter","children": 
           [
-            {"name": "4:16"}
+            {"name": "4", "children":
+                [
+                    {"name":"16"}
+                ]
+            }
           ]
         }
       ]
